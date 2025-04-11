@@ -6,8 +6,10 @@ valor_camisa = float(input('informe valor: '))
 
 # processamento
 val_desconto = valor_camisa * 0.13
-valor_final = valor_camisa - val_desconto
+valor_final = valor_camisa - val_descontogit 
 
 # saida
 print('desconto: ', "%.2f" % val_desconto)
-print('valor final: ', valor_final)                     
+print('valor final: ', valor_final)
+
+# esse programa calcula do desconto
